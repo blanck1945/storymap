@@ -1,0 +1,22 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Yui Hirazawa figure",
+            "price": 39.99,
+            "description": "Popular K-On figures Yui Hirazawa"
+        },
+        {
+            "id": 2,
+            "name": "Nakano Azuna figure",
+            "price": 52.99,
+            "description": "Popular K-On figures Nakano Azuna"
+        },
+        {
+            "id": 3,
+            "name": "Kotobuki Tsumugi figure",
+            "price": 33.99,
+            "description": "Popular K-On figures Kotobuki Tsumugi"
+        }
+    ]
+}
